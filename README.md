@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hey! I'm Best Akinlabi 
+- I'm an aspiring Software Engineer 
+- Currently attending Ontario Tech Univerity pursuing Software Engineering at the undergraduate level. I'm currently in my 3rd year.
+- I love learning things about technology and growing my skill set. 
+-  Fluent in English
 <!--
 **Bestakin/Bestakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
