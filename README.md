@@ -27,7 +27,7 @@ I'm an aspiring Software Engineer passionate about backend development, clean co
 * A **backend system for a car website** with Spring Boot integrating so many features.
 
 
-**👉 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/best-akinlabi-817416251/))**
+**👉 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/best-akinlabi-817416251/)**
 <!--
 **Bestakin/Bestakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
