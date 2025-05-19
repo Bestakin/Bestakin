@@ -1,11 +1,39 @@
-### Hey! I'm Best Akinlabi 
-- I'm an aspiring Software Engineer
-  
-- Currently attending Ontario Tech Univerity pursuing Software Engineering at the undergraduate level. I'm currently in my 3rd year.
-  
-- I love learning things about technology and growing my skill set.
-  
--  Fluent in English
+### 👋 Hey! I'm Best Akinlabi 
+
+I'm an aspiring Software Engineer passionate about backend development, clean code, and real-world problem-solving with Java and Spring Boot.
+
+---
+
+### 🎓 Education
+* Ontario Tech University, B.Eng. in Software Engineering
+* Currently in my 3rd year and actively building real-world projects
+
+---
+
+### 💻 What I Love
+* Building APIs using Spring Boot
+* Exploring Web Services (SOAP & REST)
+* Learning new technologies and growing my skill set
+* Collaborating with others on meaningful projects
+
+---
+
+### 🧠 Current Learning Focus
+
+* REST & SOAP APIs
+* Spring Boot (Security, JPA, Testing)
+* Swagger, H2, Maven
+* Clean architecture & testing best practices
+
+---
+
+### 🚗 What I’m Currently Building
+
+* A **backend system for a car website** with Spring Boot integrating so many features.
+
+---
+
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/best-akinlabi-817416251/))
 <!--
 **Bestakin/Bestakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +48,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Absolutely! Here's the updated version of your GitHub `README.md` with your new project focus:
+
+---
+
+
+### 🧠 Current Learning Focus
+
+* REST & SOAP APIs
+* Spring Boot (Security, JPA, Testing)
+* Swagger, H2, Maven
+* Clean architecture & testing best practices
+
+### 🚗 What I’m Currently Building
+
+* A **backend system for a car website** with Spring Boot, integrating features like vehicle listings, user management, and more!
+
+---
+
+
+Let me know if you'd like to include links, badges, or GitHub stats as well!
