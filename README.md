@@ -2,13 +2,10 @@
 
 I'm an aspiring Software Engineer passionate about backend development, clean code, and real-world problem-solving with Java and Spring Boot.
 
----
-
 ### 🎓 Education
 * Ontario Tech University, B.Eng. in Software Engineering
-* Currently in my 3rd year and actively building real-world projects
+* Currently in my 4th year and actively building real-world projects
 
----
 
 ### 💻 What I Love
 * Building APIs using Spring Boot
@@ -16,7 +13,6 @@ I'm an aspiring Software Engineer passionate about backend development, clean co
 * Learning new technologies and growing my skill set
 * Collaborating with others on meaningful projects
 
----
 
 ### 🧠 Current Learning Focus
 
@@ -25,13 +21,11 @@ I'm an aspiring Software Engineer passionate about backend development, clean co
 * Swagger, H2, Maven
 * Clean architecture & testing best practices
 
----
 
 ### 🚗 What I’m Currently Building
 
 * A **backend system for a car website** with Spring Boot integrating so many features.
 
----
 
 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/best-akinlabi-817416251/))
 <!--
@@ -48,23 +42,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Absolutely! Here's the updated version of your GitHub `README.md` with your new project focus:
-
----
-
-
-### 🧠 Current Learning Focus
-
-* REST & SOAP APIs
-* Spring Boot (Security, JPA, Testing)
-* Swagger, H2, Maven
-* Clean architecture & testing best practices
-
-### 🚗 What I’m Currently Building
-
-* A **backend system for a car website** with Spring Boot, integrating features like vehicle listings, user management, and more!
-
----
-
-
-Let me know if you'd like to include links, badges, or GitHub stats as well!
