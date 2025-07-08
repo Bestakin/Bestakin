@@ -18,6 +18,7 @@ I'm an aspiring Software Engineer passionate about building scalable APIs, writi
 * Learning modern backend tools & clean architecture principles  
 * Collaborating with others on meaningful projects, impactful projects
 
+---
 
 ### 🧠 Current Learning Focus
 
