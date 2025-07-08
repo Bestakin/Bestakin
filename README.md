@@ -2,6 +2,7 @@
 
 I'm an aspiring Software Engineer passionate about building scalable APIs, writing clean code, and solving real-world problems using **Java, Spring Boot**, and modern backend tools.
 
+---
 
 ### 🎓 Education
 * Ontario Tech University, B.Eng. in Software Engineering
@@ -25,6 +26,7 @@ I'm an aspiring Software Engineer passionate about building scalable APIs, writi
 * Swagger, H2, Maven
 * Clean architecture & testing best practices
 
+---
 
 ## 🚧 What I’m Currently Building
 
