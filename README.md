@@ -6,7 +6,7 @@ I'm an aspiring Software Engineer passionate about building scalable APIs, writi
 
 ### 🎓 Education
 * Ontario Tech University, B.Eng. in Software Engineering
-* 4th-year student | Graduating in 2026
+* 5th-year student | Graduating in 2026
 * Currently building real-world backend projects & sharing progress on [LinkedIn](https://www.linkedin.com/in/best-akinlabi-817416251/)
 
 ---
