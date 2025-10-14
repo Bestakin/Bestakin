@@ -1,10 +1,10 @@
-### 👋 Hey! I'm Best Akinlabi 
+###  Hey! I'm Best Akinlabi 
 
 I'm an aspiring Software Engineer passionate about building scalable APIs, writing clean code, and solving real-world problems using **Java, Spring Boot**, and modern backend tools.
 
 ---
 
-### 🎓 Education
+###  Education
 * Ontario Tech University, B.Eng. in Software Engineering
 * 5th-year student | Graduating in 2026
 * Currently building real-world backend projects & sharing progress on [LinkedIn](https://www.linkedin.com/in/best-akinlabi-817416251/)
@@ -12,7 +12,7 @@ I'm an aspiring Software Engineer passionate about building scalable APIs, writi
 ---
 
 
-### 💻 What I Love Working On  
+###  What I Love Working On  
 * Building **REST APIs** using Spring Boot
 * Exploring **Web Services** (REST & SOAP)
 * Learning modern backend tools & clean architecture principles  
@@ -20,7 +20,7 @@ I'm an aspiring Software Engineer passionate about building scalable APIs, writi
 
 ---
 
-### 🧠 Current Learning Focus
+###  Current Learning Focus
 
 * REST & SOAP APIs
 * Spring Boot: Security, JPA, Unit Testing  
@@ -31,7 +31,7 @@ I'm an aspiring Software Engineer passionate about building scalable APIs, writi
 
 ## 🚧 What I’m Currently Building
 
-### 🔧 [Spring Boot Vehicle API] (https://github.com/Bestakin/spring-boot-vehicle-api)  
+###  [Spring Boot Vehicle API] (https://github.com/Bestakin/spring-boot-vehicle-api)  
 A backend system for a car service website using Spring Boot, designed with:
 - Layered architecture  
 - HTTP status handling & validation  
@@ -39,13 +39,13 @@ A backend system for a car service website using Spring Boot, designed with:
 - Integration with external pricing service  
 - Swagger docs and unit testing with `TestEntityManager`
 
-### ☁️ [Super-Duper Drive – Cloud Storage App] (https://github.com/Bestakin/Super-Duper-Drive-Spring-Boot-Cloud-Storage)  
+###  [Super-Duper Drive – Cloud Storage App] (https://github.com/Bestakin/Super-Duper-Drive-Spring-Boot-Cloud-Storage)  
 A full-stack cloud storage platform using Spring Boot + Thymeleaf, featuring:
 - User authentication & encrypted credential storage  
 - Secure file upload/download  
 - Notes & credential management with MySQL backend
 
-### 🐾 Critter Chronologer – Pet Scheduling System *(In Progress)*  
+###  Critter Chronologer – Pet Scheduling System *(In Progress)*  
 A service-oriented Spring Boot project for a pet care business that:
 - Allows users to create pets, owners, and employees  
 - Lets employees be scheduled for services based on availability and skill  
@@ -53,12 +53,12 @@ A service-oriented Spring Boot project for a pet care business that:
 - Utilizes Spring Data JPA, DTOs, and service-to-controller separation  
 - Configures a dedicated `application.properties` for test mode (H2 DB)  
 - Includes a Postman collection and JUnit tests to validate functionality  
-> 🐱 “Smells like a well-factored program!” – Orange Cat
+>  “Smells like a well-factored program!” – Orange Cat
 
 ---
 
 
-**👉 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/best-akinlabi-817416251/)**
+**👉  Connect with me on [LinkedIn](https://www.linkedin.com/in/best-akinlabi-817416251/)**
 <!--
 **Bestakin/Bestakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
