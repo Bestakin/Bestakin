@@ -1,14 +1,13 @@
 ###  Hey! I'm Best Akinlabi 
 
-I'm an aspiring Software Engineer passionate about building scalable APIs, writing clean code, and solving real-world problems using **Java, Spring Boot**, and modern backend tools.
+I'm an aspiring Software Engineer passionate about building scalable APIs, writing clean code, and solving real-world problems using **Java, Spring Boot, Python, FastAPI**, and modern backend tools.
 
 ---
 
 ###  Education
 * Ontario Tech University, B.Eng. in Software Engineering
-* 5th-year student <!--| Graduating in 2026 -->
+* Finishing coursework December 2026, graduating June 2027
 * Currently building real-world backend projects & sharing progress on [LinkedIn](https://www.linkedin.com/in/best-akinlabi-817416251/)
-
 ---
 
 
@@ -22,39 +21,30 @@ I'm an aspiring Software Engineer passionate about building scalable APIs, writi
 
 ###  Current Learning Focus
 
-* REST & SOAP APIs
-* Spring Boot: Security, JPA, Unit Testing  
-* Swagger, H2, Maven
-* Clean architecture & testing best practices
 
 ---
 
 ## 🚧 What I’m Currently Building
 ---
 
-###  [Spring Boot Vehicle API] (https://github.com/Bestakin/spring-boot-vehicle-api)  
-A backend system for a car service website using Spring Boot, designed with:
-- Layered architecture  
-- HTTP status handling & validation  
-- REST endpoints for vehicle management  
-- Integration with external pricing service  
-- Swagger docs and unit testing with `TestEntityManager`
+###  [StatCourt](https://github.com/Bestakin/statcourt)  
+A full-stack WNBA player comparison and analytics tool built with FastAPI + React, featuring:
+- Head-to-head season and career comparisons, including an original composite scoring model
+- A from-scratch player-similarity engine (z-score standardization + cosine similarity)
+- Season Finder query builder, Draft Class Explorer, and per-season team history tracking
+- Fully responsive UI with Recharts visualizations and shareable comparison URLs
+
+###  [UniTrack](https://github.com/Bestakin/UniTrack)  
+A full-stack university administration platform built with FastAPI microservices + React, featuring:
+- RESTful APIs for managing students, courses, and enrollments, with validation and business-rule enforcement (e.g. preventing duplicate registrations)
+- Microservice architecture with independently deployed services and JWT authentication
+- Responsive frontend with dynamic forms, search functionality, and real-time API integration
 
 ###  [Super-Duper Drive – Cloud Storage App] (https://github.com/Bestakin/Super-Duper-Drive-Spring-Boot-Cloud-Storage)  
 A full-stack cloud storage platform using Spring Boot + Thymeleaf, featuring:
 - User authentication & encrypted credential storage  
 - Secure file upload/download  
 - Notes & credential management with MySQL backend
-
-###  Critter Chronologer – Pet Scheduling System *(In Progress)*  
-A service-oriented Spring Boot project for a pet care business that:
-- Allows users to create pets, owners, and employees  
-- Lets employees be scheduled for services based on availability and skill  
-- Demonstrates multi-entity data modeling and clean architecture  
-- Utilizes Spring Data JPA, DTOs, and service-to-controller separation  
-- Configures a dedicated `application.properties` for test mode (H2 DB)  
-- Includes a Postman collection and JUnit tests to validate functionality  
->  “Smells like a well-factored program!” – Orange Cat
 
 ---
 
@@ -63,14 +53,3 @@ A service-oriented Spring Boot project for a pet care business that:
 <!--
 **Bestakin/Bestakin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
