@@ -42,7 +42,7 @@ A full-stack university administration platform built with FastAPI microservices
 - Microservice architecture with independently deployed services and JWT authentication
 - Responsive frontend with dynamic forms, search functionality, and real-time API integration
 
-###  [Super-Duper Drive – Cloud Storage App] (https://github.com/Bestakin/Super-Duper-Drive-Spring-Boot-Cloud-Storage)  
+###  [Super-Duper Drive – Cloud Storage App](https://github.com/Bestakin/Super-Duper-Drive-Spring-Boot-Cloud-Storage)  
 A full-stack cloud storage platform using Spring Boot + Thymeleaf, featuring:
 - User authentication & encrypted credential storage  
 - Secure file upload/download  
