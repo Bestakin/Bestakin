@@ -2,7 +2,7 @@
 
 Software Engineering student at **Ontario Tech University**, focused on backend and full-stack development. I build APIs, data-heavy web apps and the occasional computer-vision system, mostly with **Java / Spring Boot**, **Python / FastAPI** and **React**.
 
-📍 Greater Toronto Area · 🎓 B.Eng. Software Engineering (coursework done Dec 2026, degree June 2027) · 💼 Open to new grad software roles from early 2027
+ 🎓 B.Eng. Software Engineering (coursework done Dec 2026, degree June 2027) · 💼 Open to new grad software roles from early 2027
 
 ---
 
